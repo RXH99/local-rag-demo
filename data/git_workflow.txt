@@ -1,0 +1,6 @@
+Git 分支工作流：
+1. git checkout -b feature
+2. 修改代码后 git add . && git commit -m "msg"
+3. git push origin feature
+4. 在 GitHub 创建 Pull Request
+5. 合并后删除本地分支

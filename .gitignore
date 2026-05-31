@@ -1,0 +1,14 @@
+# 虚拟环境
+venv/
+env/
+
+# Python缓存
+__pycache__/
+*.pyc
+
+# 向量数据库（太大，不提交）
+chroma_db/
+
+# 编辑器
+.vscode/
+.idea/

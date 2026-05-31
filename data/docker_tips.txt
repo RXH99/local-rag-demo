@@ -1,0 +1,4 @@
+Docker 常用命令：
+- docker build -t my-image .    # 构建镜像
+- docker run -it my-image bash  # 运行容器
+- docker ps -a                  # 查看所有容器
